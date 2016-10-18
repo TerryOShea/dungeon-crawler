@@ -486,11 +486,4 @@ var Header = React.createClass({
   }
 });
 
-/*var Lamp = React.createClass({
-  render: function() {
-    return(
-    )
-  }
-});*/
-
 ReactDOM.render(React.createElement(Dungeon, null), document.getElementById('app'));
