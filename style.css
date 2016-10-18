@@ -64,30 +64,6 @@
   line-height: 600px;
 }
 
-@keyframes disappear {
-  0% {
-    opacity: 1;
-    color: rgba(255, 255, 255, 0);
-  }
-  20% {
-    color: white;
-  }
-  60% {
-    color: white;
-  }
-  80% {
-    opacity: 1;
-    color: rgba(255, 255, 255, 0);
-  }
-  99% {
-    opacity: 0;
-    color: rgba(255, 255, 255, 0);
-    transform: translate(0, 0);
-  }
-  100% {
-    transform: translate(0, 600px);
-  }
-}
 .header {
   width: 100%;
   height: 100px;
@@ -154,5 +130,30 @@
   }
   100% {
     background: #ff0080;
+  }
+}
+
+@keyframes disappear {
+  0% {
+    opacity: 1;
+    color: rgba(255, 255, 255, 0);
+  }
+  20% {
+    color: white;
+  }
+  60% {
+    color: white;
+  }
+  80% {
+    opacity: 1;
+    color: rgba(255, 255, 255, 0);
+  }
+  99% {
+    opacity: 0;
+    color: rgba(255, 255, 255, 0);
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(0, 600px);
   }
 }
