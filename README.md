@@ -1,4 +1,4 @@
-A Pen created at CodePen.io. You can find this one at <a href='http://codepen.io/terryoshea/full/mAAjEk/' target='_blank'>http://codepen.io/terryoshea/full/mAAjEk/</a>.
+A Pen created at CodePen.io. You can find this one <a href='http://codepen.io/terryoshea/full/mAAjEk/' target='_blank'>here</a>.
 
 This was built with React for Free Code Camp's 'Build a Roguelike Dungeon Crawler Game' Project (for Data Visualization Certificate). 
 
